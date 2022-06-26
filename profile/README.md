@@ -9,5 +9,5 @@ Atualmente temos trilhas de estrudos focadas em **engenharia de software** e **U
 Conheça mais sobre a comunidade:
 - Nosso site - [podcodar.com](https://podcodar.com)
 - Wiki Page - [wiki.podcodar.com](https://wiki.podcodar.com)
-- Forum - [wiki.podcodar.com](https://forum.podcodar.com)
+- Forum - [forum.podcodar.com](https://forum.podcodar.com)
 - Labs - [labs.podcodar.com](https://labs.podcodar.com)
